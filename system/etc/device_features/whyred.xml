@@ -281,7 +281,7 @@
     <!--wether support ime xiaoai voice input-->
     <bool name="surpport_ime_xiaoai_voice">true</bool>
     <!--whether support square mode in camera-->
-    <bool name="support_camera_square_mode">true</bool>
+    <bool name="support_camera_square_mode">false</bool>
     <!--whether support magic mirror in camera-->
     <bool name="support_camera_magic_mirror">true</bool>
     <!-- whether camera supports paralell process -->
